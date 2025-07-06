@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Weather App by Zeel",
+  "description": "A simple weather app where you can check the weather of any city",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": []
+}
