@@ -89,3 +89,9 @@ _Or clone and run locally using Live Server._
 [LinkedIn Profile](https://www.linkedin.com/in/zeel-panchal-463091205/)
 
 ---
+
+## 📝 License
+
+MIT © 2025 Zeel Panchal
+
+---
