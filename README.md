@@ -86,5 +86,6 @@ _Or clone and run locally using Live Server._
 
 **Zeel Panchal**    
 [GitHub Profile](https://github.com/Panchal-Zeel/)
+[LinkedIn Profile](https://www.linkedin.com/in/zeel-panchal-463091205/)
 
 ---
