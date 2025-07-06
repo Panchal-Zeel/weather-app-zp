@@ -71,14 +71,15 @@ _Or clone and run locally using Live Server._
 ## 📁 Project Structure
 
 ```
+
 📦 Weather App/
-├── index.html # Main HTML file
-├── style.css # All custom CSS
-├── script.js # JavaScript logic
-├── manifest.json # (For Chrome Extension use)
-├── icons/ # Weather or extension icons
-├── previews/ # Screenshots for README
-└── README.md # Project overview
+├── assets/             # Folder containing preview images (desktop.png, mobile.png, etc.)
+├── LICENSE             # MIT License file
+├── README.md           # Project overview and documentation
+├── index.html          # Main HTML file
+├── manifest.json       # For Chrome extension support
+├── script.js           # JavaScript logic (fetch + DOM updates)
+└── style.css           # Custom CSS for styling the app
 
 ```
 
